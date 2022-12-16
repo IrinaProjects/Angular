@@ -8,6 +8,8 @@
     "noPropertyAccessFromIndexSignature": false,
     "noImplicitReturns": false,
     "noFallthroughCasesInSwitch": false
+
+    //TODO enable strict mode
   },
   "files": [],
   "include": [],
